@@ -8,6 +8,14 @@ author_profile: true
 
 # Research Experience
 
+## Undergraduate Researcher at Web Intelligence & Social Computing Lab, Dept of CS & IS, BITS Pilani 
+<small>May 2017 - Present </small>
+
+<p> Working on Crisis Tweet classification with respect to 2015 Nepal Earthquake. The task involves identification of tweets that request help and those that provide aid. The goal is to match the tweets using NLP.</p>
+
+<p>Worked on Sentiment Analysis of tweets in Indian languages using word-embeddings and LSTM based RNN architecture on SAIL 2015 dataset.</p>
+
+
 ## Biomedical Informatics Center,  NICED-ICMR, Kolkata — Summer Intern
 <small> Summer 2016 </small>
 <p>Developed a classifier to identify Adhesin proteins from FASTA sequence. Used supervised machine learning algorithms.
@@ -16,13 +24,6 @@ Adhesin proteins are used in vaccines and their identification through statistic
  
 The code for the project can be found <a href ="https://github.com/atalukdar/BacterialAdhesinClassifier">here</a>.
 
-
-## Undergraduate Researcher at Web Intelligence & Social Computing Lab, Dept of CS & IS, BITS Pilani 
-<small>May 2017 - Present </small>
-
-<p> Working on Crisis Tweet classification with respect to 2015 Nepal Earthquake. The task involves identification of tweets that request help and those that provide aid. The goal is to match the tweets using NLP.</p>
-
-<p>Worked on Sentiment Analysis of tweets in Indian languages using word-embeddings and LSTM based RNN architecture on SAIL 2015 dataset.</p>
 
 ## Formal Research Student at ADAPT Labs, BITS Pilani
 <small>Aug 2017 - Present</small>
@@ -34,21 +35,11 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 # Internships
 
 ## Summer Research Intern at West Bengal State E-Governance Mission, WEBEL, Kolkata
-<img src = "{{ site.baseurl }}/images/BSE_logo.jpg"/><br>
+<img src = "{{ site.baseurl }}/images/WEBEL_logo.jpg"/><br>
 <small>      May 2017 - July 2017</small>
 <p>Worked on a survey for Impact of Technology on Stock Market Surveillance, with major focus on developing a methodology to set periodic price bands for Penny Stocks.</p>
 <p>Find more details <a href="https://docs.google.com/document/d/e/2PACX-1vTNobA1vq7BqzXf9uhojCB4rf8jIKE3nYLbrlTpDpip7GtvOdqRSXvrjztH4lSWhEsLCYBqNpX94dxZ/pub">here</a>.</p>
 
-## Web Development Intern at BITS2Startup@GLOBAL
-<img src = "{{ site.baseurl }}/images/bits2startup@global.jpg"/><br>
-<small>      Oct 2016</small>
-<p>Worked as a back-end web development intern for the official website of the startup. Made a login/registration tool using the LinkedIn and Google API.</p>
-
-## Campus Ambassador for BITS Pilani at SophomoreS.in
-<img src = "{{ site.baseurl }}/images/sophomores.in_logo.png"/><br>
-<small>      Aug 2016 - Oct 2016</small>
-<p>Worked as the Campus Ambassador and the mediator between the authorities and the students enrolled for the <a href = "sophomores.in">Sophomores.in</a> program.</p>
-<br><br>
 
 # Education
 
@@ -62,7 +53,7 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 </p>
 
 ## Higher Secondary Education
-<img src="{{ site.baseurl }}/images/Pace_logo.jpg"><br>
+<img src="{{ site.baseurl }}/images/bhs.jpg"><br>
 <small>2013-2015</small>
 <p>Birla High School, Kolkata<br>
    CBSE Board<br>
@@ -70,9 +61,9 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 </p>
 
 ## Secondary Education
-<img src = "{{ site.baseurl }}/images/Ryan_logo.jpg"/><br>
+<img src = "{{ site.baseurl }}/images/faps.jpg"/><br>
 <small>      2006-2013</small>
 <p>Frank Anthony Public School, Kolkata<br>
    ICSE Board<br>
-   CGPA = 10; Percentage = 94.00%<br>
+   Percentage = 94.00%<br>
 </p>
