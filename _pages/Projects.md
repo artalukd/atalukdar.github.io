@@ -16,7 +16,8 @@ Analysis and optimisation of concurrent algorithms as a semester long project un
 </p>
 
 ## Arrhythmia Detection From ECG signals 
-    <small> Under Dr. Rajarshi Gupta, Calcutta University, July 2017 - present<small>
+<small> Under Dr. Rajarshi Gupta, Calcutta University, July 2017 - present
+</small>
 
 <p>Created Neural Network based classifier to identify and identify and classify arrhythmia from ECG using MIT-BIH Arrhythmia Database - PhysioNet. Work is still in progress and it is to be further extended and fine tuned before publication. LSTM architecture was used in this classifier.
 </p>

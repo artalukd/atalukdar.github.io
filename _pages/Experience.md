@@ -9,7 +9,7 @@ author_profile: true
 # Research Experience
 
 ## Undergraduate Researcher at Web Intelligence & Social Computing Lab, Dept of CS & IS, BITS Pilani 
-<small>May 2017 - Present </small>
+<small>May 2017 - Present</small>
 
 <p> Working on Crisis Tweet classification with respect to 2015 Nepal Earthquake. The task involves identification of tweets that request help and those that provide aid. The goal is to match the tweets using NLP.</p>
 
@@ -29,7 +29,7 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 <small>Aug 2017 - Present</small>
 
 <p>I am working in ADAPT Labs under the guidance of <a href="http://universe.bits-pilani.ac.in/pilani/sundarb/profile">Prof. S Sundar Balasubhramanium</a> at <a href="http://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory">ADAPT Labs</a> for the purpose of design and analysis of concurrent data structures.</p>
-<br><br>
+
 
 
 # Internships
@@ -41,29 +41,4 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 <p>Find more details <a href="https://docs.google.com/document/d/e/2PACX-1vTNobA1vq7BqzXf9uhojCB4rf8jIKE3nYLbrlTpDpip7GtvOdqRSXvrjztH4lSWhEsLCYBqNpX94dxZ/pub">here</a>.</p>
 
 
-# Education
 
-## Under-Graduate             
-<img src = "{{ site.baseurl }}/images/BITSPilani_logo.png"/><br>
-<small>2015-2017</small>
-<p><big>Junior</big><br>
-   BITS Pilani, Rajasthan<br>
-   B.E. (hons.) Computer Science<br>
-   CGPA = 8.38<br>
-</p>
-
-## Higher Secondary Education
-<img src="{{ site.baseurl }}/images/bhs.jpg"><br>
-<small>2013-2015</small>
-<p>Birla High School, Kolkata<br>
-   CBSE Board<br>
-   Percentage = 94.00%<br>
-</p>
-
-## Secondary Education
-<img src = "{{ site.baseurl }}/images/faps.jpg"/><br>
-<small>      2006-2013</small>
-<p>Frank Anthony Public School, Kolkata<br>
-   ICSE Board<br>
-   Percentage = 94.00%<br>
-</p>

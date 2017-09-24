@@ -6,6 +6,8 @@ main:
     url: /Projects/
   - title: "Experience"
     url: /Experience/
+  - title: "Education"
+    url: /Education/
   - title: "Organisations"
     url: /Organisations/
   - title: "Achievements"
