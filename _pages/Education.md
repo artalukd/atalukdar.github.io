@@ -1,3 +1,9 @@
+---
+layout: archive
+permalink: /Education/
+author_profile: true
+---
+
 # Education
 
 ## Under-Graduate             
@@ -22,7 +28,7 @@ BITS Pilani, Rajasthan<br>
 ## Secondary Education
 <img src = "{{ site.baseurl }}/images/faps.jpg"/><br>
 <p>Frank Anthony Public School, Kolkata<br>
-<small>2006-2013</small><br>
+<small>2006-2013</small><br> 
    ICSE Board<br>
    Percentage = 94.00%<br>
 </p>

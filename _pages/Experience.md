@@ -35,8 +35,8 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 # Internships
 
 ## Summer Research Intern at West Bengal State E-Governance Mission, WEBEL, Kolkata
-<img src = "{{ site.baseurl }}/images/WEBEL_logo.jpg"/><br>
-<small>      May 2017 - July 2017</small>
+<img src = "{{ site.baseurl }}/images/webel_logo.jpg"/>
+<small> May 2017 - July 2017</small>
 <p>Worked on a survey for Impact of Technology on Stock Market Surveillance, with major focus on developing a methodology to set periodic price bands for Penny Stocks.</p>
 <p>Find more details <a href="https://docs.google.com/document/d/e/2PACX-1vTNobA1vq7BqzXf9uhojCB4rf8jIKE3nYLbrlTpDpip7GtvOdqRSXvrjztH4lSWhEsLCYBqNpX94dxZ/pub">here</a>.</p>
 

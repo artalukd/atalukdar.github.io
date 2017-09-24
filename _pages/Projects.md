@@ -28,7 +28,7 @@ Analysis and optimisation of concurrent algorithms as a semester long project un
 <p>Designed a hardware system on ISIS 2007, Proteus to simulate the working of a digital alarm clock with LCD Display using an 8086 Micro-Processor for a course. An assembly script was used to run the model. Find more details of the project <a href="https://github.com/atalukdar/MUPI_digital_clock">here</a>.</p>
 
 ## MNIST in Python
-    <smalll>Under Dr Yashvardhan Sharma, WISOC Lab,  March 2017</small>
+    <small>Under Dr Yashvardhan Sharma, WISOC Lab,  March 2017</small>
 
 <p>Created a library using Numpy that implemented all basic deep learning functionality in python. Used this library to to perform classification task on the popular MNIST dataset for recognition of handwritten digits. This library was developed for teaching students the nuts and bolts of neural networks.
 <a href ="https://github.com/atalukdar/MNISTinPython">Find it here.</a></p>
@@ -43,7 +43,6 @@ Developed an Android Platform based Application that provides the user with the 
 
 ## Checkmate 2016 Pokemon-Go!
 <small>Development Period: July 2016 - Aug 2016 </small><br>
-<small>Event Hosted in the First week of September.</small>
 
 <p>Checkmate is BITS Pilani's revolutionary quizzing event, where the participant's aptitude for analytical thinking and logic based problem solving is put to test. Hosted on a web based platform, it is conducted by the chapter in the fall semester of every academic year. The theme idea for September 2016 Checkmate was derived from the then popular game version japanese anime, POKEMON.</p>
 
