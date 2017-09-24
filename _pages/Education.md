@@ -4,8 +4,6 @@ permalink: /Education/
 author_profile: true
 ---
 
-# Education
-
 ## Under-Graduate             
 <img src = "{{ site.baseurl }}/images/BITSPilani_logo.png"/><br>
 BITS Pilani, Rajasthan<br>
