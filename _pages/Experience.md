@@ -11,10 +11,13 @@ author_profile: true
 ## Undergraduate Researcher at Web Intelligence & Social Computing Lab, Dept of CS & IS, BITS Pilani 
 <small>May 2017 - Present</small>
 
-<p> Working on Crisis Tweet classification with respect to 2015 Nepal Earthquake. The task involves identification of tweets that request help and those that provide aid. The goal is to match the tweets using NLP.</p>
-
-<p>Worked on Sentiment Analysis of tweets in Indian languages using word-embeddings and LSTM based RNN architecture on SAIL 2015 dataset.</p>
-
+<p>Worked on Crisis Tweet classification with respect to 2015 Nepal Earthquake.
+The task involved identification of multilingual tweets thatrequest help and those
+that provide aid. Tweets from victims seeking help were identified and matched
+with tweets providing suitable help. Results of the work has been accepted at
+<a href="http://fire.irsi.res.in/fire/2017/home">FIRE, 2017</a> to be held at IISc Bangalore in December 2017.</p>
+<p>Worked on Sentiment Analysis of tweets in Indian languages using
+word-embeddings and LSTM based RNN architecture on SAIL 2015 dataset.</p>
 
 ## Biomedical Informatics Center,  NICED-ICMR, Kolkata — Summer Intern
 <small> Summer 2016 </small>
@@ -37,8 +40,9 @@ The code for the project can be found <a href ="https://github.com/atalukdar/Bac
 ## Summer Research Intern at West Bengal State E-Governance Mission, WEBEL, Kolkata
 <img src = "{{ site.baseurl }}/images/webel_logo.jpg"/>
 <small> May 2017 - July 2017</small>
-<p>Worked on a survey for Impact of Technology on Stock Market Surveillance, with major focus on developing a methodology to set periodic price bands for Penny Stocks.</p>
-<p>Find more details <a href="https://docs.google.com/document/d/e/2PACX-1vTNobA1vq7BqzXf9uhojCB4rf8jIKE3nYLbrlTpDpip7GtvOdqRSXvrjztH4lSWhEsLCYBqNpX94dxZ/pub">here</a>.</p>
-
-
+<p>Worked on Government Process Reengineering (GPR) in the processes of
+Calcutta High Court. It included digitizing and simplifying the process of nearly 80
+departments of the High Court.</p>
+<p>Sentiment analysis of tweets and comments( in the app store) about government
+apps and their public perception about each application overtime.</p>
 

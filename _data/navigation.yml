@@ -6,16 +6,17 @@ main:
     url: /Projects/
   - title: "Experience"
     url: /Experience/
-  - title: "Education"
-    url: /Education/
+  - title: "Resume"
+    url: /Arka_Talukdar_Resume.pdf
   - title: "Organisations"
     url: /Organisations/
   - title: "Achievements"
     url: /Achievements
-  - title: "Resume"
-    url: /Arka_Talukdar_Resume.pdf
-  - title: "Miscellaneous"
-    url: /Miscellaneous
+  - title: "Education"
+    url: /Education/
+
+  # - title: "Miscellaneous"
+  #  url: /Miscellaneous
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
