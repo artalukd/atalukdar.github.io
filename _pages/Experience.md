@@ -9,7 +9,7 @@ author_profile: true
 # Research Experience
 
 ## Undergraduate Researcher at Web Intelligence & Social Computing Lab, Dept of CS & IS, BITS Pilani 
-<small>May 2017 - Present</small>
+<small> May 2017 - Present </small>
 
 <p>Worked on Crisis Tweet classification with respect to 2015 Nepal Earthquake.
 The task involved identification of multilingual tweets thatrequest help and those

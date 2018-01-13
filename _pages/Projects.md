@@ -9,7 +9,7 @@ author_profile: true
 # Projects
 
 ## Fake News Detection
-<smalll>Information Retrieval Course Project, October - November, 2017 </small>
+<smalll> Information Retrieval Course Project, October - November, 2017 </small>
 <p>Project in progress, created a fake news classifier using Kaggle Fake News Dataset. Currently creating a new datset with respect to Indian context by scraping Indian news vendors, including regional languages.</p>
 
 ## Concurrent Data Structures
