@@ -18,7 +18,7 @@ with tweets providing suitable help. <a href ="http://ceur-ws.org/Vol-2036/T2-3.
 <small> Information Retrieval Course Project, October - November, 2017 </small>
 <p>Fake News and it's proliferation is a massive problem in our society. We trained a deep neural network to classify news articles into fake and real. We used Kaggle Fake News dataset along with News from established media houses. We got over 90% accuracy. 
 Further we created a smaller dataset with data from Indian media houses. We got similar results in this dataset too.
-<a href ="https://github.com/atalukdar/FakeNewsDetector"> *Project Repo* </a></p>
+<a href ="https://github.com/atalukdar/FakeNewsDetector"> <br>Project Link </a></p>
 ## Concurrent Data Structures
 <small> Under Prof S. Balasubramanian , BITS Pilani , August 2017 - December 2017
 </small>
@@ -35,7 +35,7 @@ Analysis and optimisation of concurrent algorithms as a semester long project un
 ## Classification of Multilingual Disaster Tweets
 <small>WEBEL, Summer 2017</small>
 <p>Developed  a bio-metric attendance system through Facial Recognition using
-VGG-16 network architecture.<a href ="https://github.com/atalukdar/facial_recognition">*Project Repo*</a></p>
+VGG-16 network architecture.<a href ="https://github.com/atalukdar/facial_recognition"><br>Project Link</a></p>
 
 ## Digital Alarm System using 8086 Micro-Processor
 <small>April 2017</small>
