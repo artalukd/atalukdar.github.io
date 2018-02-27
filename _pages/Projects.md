@@ -12,12 +12,12 @@ author_profile: true
 <p>Worked on Crisis Tweet classification with respect to 2015 Nepal Earthquake.
 The task involved identification of multilingual tweets that request help and those
 that provide aid. Tweets from victims seeking help were identified and matched
-with tweets providing suitable help. [Published at FIRE, 2017]http://ceur-ws.org/Vol-2036/T2-3.pdf .</p>
+with tweets providing suitable help. [Published at FIRE, 2017](http://ceur-ws.org/Vol-2036/T2-3.pdf) .</p>
 
 ## Fake News Detection
 <small> Information Retrieval Course Project, October - November, 2017 </small>
 <p>Fake News and it's proliferation is a massive problem in our society. We trained a deep neural network to classify news articles into fake and real. We used Kaggle Fake News dataset along with News from established media houses. We got over 90% accuracy. 
-Further we created a smaller dataset with data from Indian media houses. We got similar results in this dataset too. [Project Repo]https://github.com/atalukdar/FakeNewsDetector</p>
+Further we created a smaller dataset with data from Indian media houses. We got similar results in this dataset too. [Project Repo](https://github.com/atalukdar/FakeNewsDetector)</p>
 ## Concurrent Data Structures
 <small> Under Prof S. Balasubramanian , BITS Pilani , August 2017 - December 2017
 </small>
@@ -29,8 +29,13 @@ Analysis and optimisation of concurrent algorithms as a semester long project un
 <small> Under Dr. Rajarshi Gupta, Calcutta University, July 2017 - August 2017
 </small>
 
-<p>Created Neural Network based classifier to identify and identify and classify arrhythmia from ECG using MIT-BIH Arrhythmia Database - PhysioNet. Work is still in progress and it is to be further extended and fine tuned before publication. LSTM architecture was used in this classifier.
+<p>Created Neural Network based classifier to identify and identify and classify arrhythmia from ECG using MIT-BIH Arrhythmia Database - PhysioNet. LSTM architecture was used in this classifier.
 </p>
+
+## Classification of Multilingual Disaster Tweets
+<small>WEBEL, Summer 2017</small>
+<p>Developed  a bio-metric attendance system through Facial Recognition using
+VGG-16 network architecture.[Project Repo](https://github.com/atalukdar/facial_recognition) .</p>
 
 ## Digital Alarm System using 8086 Micro-Processor
 <small>April 2017</small>

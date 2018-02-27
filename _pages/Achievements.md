@@ -8,6 +8,11 @@ author_profile: true
 
 # Achievements
 
+- Runner-Up India Israel Innovation Challenge 2018, Agriculture Category
+    - January 2018
+    - Developed IOT based continuous monitoring system to reduce post harvest losses of food grains in Indian warehouses. 
+    - [Team](http://ambersolutions.in/) felicitated by PM N. Modi (India) and PM B. Netanyahu (Israel).
+
 - National Talent Search Exam NCERT, MHRD, Govt of India
     - May 2011 
     - Awarded NTSE scholarship and secured an All India Rank of 294, out of nearly 500,000 students
